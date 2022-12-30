@@ -19,7 +19,7 @@
       <link>http://www.example.com/article2</link>
       <guid isPermaLink="true">http://www.example.com/article2</guid>
       <pubDate>Fri, 01 Feb 2022 23:45:01 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG/280px-Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG" type="image/jpeg"/>
       <media:content url="https://www.w3.org/TR/PNG/iso_8859-1.txt" type="text/plain"/>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <link>http://www.example.com/article3</link>
       <guid isPermaLink="true">http://www.example.com/article3</guid>
       <pubDate>Fri, 01 Mar 2022 15:16:17 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/African_Bush_Elephant.jpg/280px-African_Bush_Elephant.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg" type="image/jpeg"/>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/en/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
     </item>
@@ -38,7 +38,7 @@
       <link>http://www.example.com/article4</link>
       <guid isPermaLink="true">http://www.example.com/article4</guid>
       <pubDate>Fri, 01 Apr 2022 18:19:20 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Panthera_tigris_tigris_%28Serengeti%2C_2009%29.jpg/280px-Panthera_tigris_tigris_%28Serengeti%2C_2009%29.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/49/Panthera_tigris_tigris.jpg" type="image/jpeg"/>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/en/4/45/BWV_847-fugue.ogg" type="audio/mpeg"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cat03.jpg/280px-Cat03.jpg" type="image/jpeg"/>
@@ -49,7 +49,7 @@
       <link>http://www.example.com/article5</link>
       <guid isPermaLink="true">http://www.example.com/article5</guid>
       <pubDate>Fri, 01 May 2022 21:22:23 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bengal_Tiger_at_Bannerghatta_National_Park.jpg/280px-Bengal_Tiger_at_Bannerghatta_National_Park.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/5/53/Bengal_Tiger_at_Bannerghatta_National_Park.jpg" type="image/jpeg"/>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/en/4/45/BWV_847-fugue.ogg" type="audio/mpeg"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/en/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
