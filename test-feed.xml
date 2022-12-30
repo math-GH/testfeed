@@ -1,2 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>feed</title><description/><link>https://demo.contao.org/</link><language>en</language><pubDate>Fri, 30 Dec 2022 15:37:00 +0100</pubDate><generator>Contao Open Source CMS</generator><atom:link href="https://demo.contao.org/share/feed.xml" rel="self" type="application/rss+xml"/><item><title>News 4: 2 images</title><description><![CDATA[]]></description><link>https://demo.contao.org/en/news-detail/news-4-2-images.html</link><pubDate>Fri, 30 Dec 2022 15:37:00 +0100</pubDate><guid>https://demo.contao.org/en/news-detail/news-4-2-images.html</guid><enclosure url="https://demo.contao.org/files/contaodemo/media/content-images/DSC_5276.jpg" length="41956" type="image/jpeg"/><enclosure url="https://demo.contao.org/files/contaodemo/media/content-images/DSC_5403.jpg" length="36501" type="image/jpeg"/></item><item><title>News1: 1 image + 1pdf</title><description><![CDATA[]]></description><link>https://demo.contao.org/en/news-detail/news1-1-image-1pdf.html</link><pubDate>Fri, 30 Dec 2022 15:36:00 +0100</pubDate><guid>https://demo.contao.org/en/news-detail/news1-1-image-1pdf.html</guid><enclosure url="https://demo.contao.org/files/contaodemo/media/content-images/DSC_5276.jpg" length="41956" type="image/jpeg"/><enclosure url="https://demo.contao.org/files/contaodemo/media/documents/contao_fanpage_logo.pdf" length="48091" type="application/pdf"/></item><item><title>News 2: 1 image</title><description><![CDATA[]]></description><link>https://demo.contao.org/en/news-detail/news-2-1-image.html</link><pubDate>Fri, 30 Dec 2022 15:36:00 +0100</pubDate><guid>https://demo.contao.org/en/news-detail/news-2-1-image.html</guid><enclosure url="https://demo.contao.org/files/contaodemo/media/content-images/DSC_5276.jpg" length="41956" type="image/jpeg"/></item><item><title>New Contao Versions in short intervalls</title><description><![CDATA[<p>The Contao community works hard to continuously improve Contao. Therefore several updates are released each year. The last release was Contao 3.3.</p>]]></description><link>https://demo.contao.org/en/news-detail/new-contao-versions-in-short-intervalls.html</link><pubDate>Fri, 23 May 2014 14:01:00 +0200</pubDate><guid>https://demo.contao.org/en/news-detail/new-contao-versions-in-short-intervalls.html</guid></item><item><title>New Contao Community Members each day</title><description><![CDATA[<p>More and more web developers join the Contao community each day. Therefore Contao is able to evolve contantly.</p>]]></description><link>https://demo.contao.org/en/news-detail/new-contao-community-members-each-day.html</link><pubDate>Fri, 25 Apr 2014 09:15:00 +0200</pubDate><guid>https://demo.contao.org/en/news-detail/new-contao-community-members-each-day.html</guid></item><item><title>Contao is popular</title><description><![CDATA[<p>In a recent security level comparison Contao excelled as one of the most secure Open Source CMS's.</p>]]></description><link>https://demo.contao.org/en/news-detail/contao-is-popular.html</link><pubDate>Mon, 17 Feb 2014 14:27:00 +0100</pubDate><guid>https://demo.contao.org/en/news-detail/contao-is-popular.html</guid></item></channel></rss>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCnCikd0s4i9KoDtaHPlK-JA"/>
+ <id>yt:channel:</id>
+ <yt:channelId></yt:channelId>
+ <title>Daniel Miessler</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCnCikd0s4i9KoDtaHPlK-JA"/>
+ <author>
+  <name>Daniel Miessler</name>
+  <uri>https://www.youtube.com/channel/UCnCikd0s4i9KoDtaHPlK-JA</uri>
+ </author>
+ <published>2011-10-24T01:04:57+00:00</published>
+ <entry>
+  <id>yt:video:vrBr_vrMdLQ</id>
+  <yt:videoId>vrBr_vrMdLQ</yt:videoId>
+  <yt:channelId>UCnCikd0s4i9KoDtaHPlK-JA</yt:channelId>
+  <title>Mechanizing the Methodology</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vrBr_vrMdLQ"/>
+  <author>
+   <name>Daniel Miessler</name>
+   <uri>https://www.youtube.com/channel/UCnCikd0s4i9KoDtaHPlK-JA</uri>
+  </author>
+  <published>2020-08-18T11:49:59+00:00</published>
+  <updated>2022-02-17T01:19:46+00:00</updated>
+  <media:group>
+   <media:title>Mechanizing the Methodology</media:title>
+   <media:content url="https://www.youtube.com/v/vrBr_vrMdLQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vrBr_vrMdLQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How to find vulnerabilities while you're doing other things.</media:description>
+   <media:community>
+    <media:starRating count="30" average="5.00" min="1" max="5"/>
+    <media:statistics views="590"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WrdJfEUjOYo</id>
+  <yt:videoId>WrdJfEUjOYo</yt:videoId>
+  <yt:channelId>UCnCikd0s4i9KoDtaHPlK-JA</yt:channelId>
+  <title>Hijacked vs. Mindful: The Fundamental Distinction at the Center of Meditation</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WrdJfEUjOYo"/>
+  <author>
+   <name>Daniel Miessler</name>
+   <uri>https://www.youtube.com/channel/UCnCikd0s4i9KoDtaHPlK-JA</uri>
+  </author>
+  <published>2020-04-01T09:49:09+00:00</published>
+  <updated>2022-10-27T22:35:56+00:00</updated>
+  <media:group>
+   <media:title>Hijacked vs. Mindful: The Fundamental Distinction at the Center of Meditation</media:title>
+   <media:content url="https://www.youtube.com/v/WrdJfEUjOYo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WrdJfEUjOYo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This video provides a simple explanation of the most important concept in mindfulness and meditation: the distinction between distraction and awareness.</media:description>
+   <media:community>
+    <media:starRating count="47" average="5.00" min="1" max="5"/>
+    <media:statistics views="1449"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:V2X0twHBGqE</id>
+  <yt:videoId>V2X0twHBGqE</yt:videoId>
+  <yt:channelId>UCnCikd0s4i9KoDtaHPlK-JA</yt:channelId>
+  <title>Unsupervised Learning: Security, Secrecy, and Obscurity</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=V2X0twHBGqE"/>
+  <author>
+   <name>Daniel Miessler</name>
+   <uri>https://www.youtube.com/channel/UCnCikd0s4i9KoDtaHPlK-JA</uri>
+  </author>
+  <published>2019-01-27T21:31:30+00:00</published>
+  <updated>2022-08-01T18:44:31+00:00</updated>
+  <media:group>
+   <media:title>Unsupervised Learning: Security, Secrecy, and Obscurity</media:title>
+   <media:content url="https://www.youtube.com/v/V2X0twHBGqE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/V2X0twHBGqE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of Unsupervised Learning, I explain when secrecy (obscurity) is good and bad for security—using various well-known examples from surveillance, warfare, and tradecraft.
+
+This is from a talk/debate I did (and won for) at NBTCon 2018 in San Francisco, CA.</media:description>
+   <media:community>
+    <media:starRating count="62" average="5.00" min="1" max="5"/>
+    <media:statistics views="2162"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
