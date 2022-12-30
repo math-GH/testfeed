@@ -15,12 +15,12 @@
     </item>
     <item>
       <title>Article 2</title>
-      <description>This is the second article in the RSS feed. It has two attachments, an image file and a PDF file.</description>
+      <description>This is the second article in the RSS feed. It has two attachments, an image file and a text file.</description>
       <link>http://www.example.com/article2</link>
       <guid isPermaLink="true">http://www.example.com/article2</guid>
       <pubDate>Fri, 01 Jan 2022 00:00:00 GMT</pubDate>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG/280px-Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG" type="image/jpeg"/>
-      <media:content url="https://www.w3.org/TR/PNG/iso_8859-1.txt" type="application/pdf"/>
+      <media:content url="https://www.w3.org/TR/PNG/iso_8859-1.txt" type="text/plain"/>
     </item>
     <item>
       <title>Article 3</title>
