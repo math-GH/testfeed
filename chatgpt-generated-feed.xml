@@ -6,7 +6,7 @@
     <link>http://www.example.com</link>
     <atom:link href="http://www.example.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Article 1</title>
+      <title>Article 1: jpg</title>
       <description>This is the first article in the RSS feed. It has one attachment, an image file.</description>
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
@@ -14,45 +14,45 @@
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/280px-Gull_portrait_ca_usa.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>Article 2</title>
+      <title>Article 2: jpg, txt</title>
       <description>This is the second article in the RSS feed. It has two attachments, an image file and a text file.</description>
       <link>http://www.example.com/article2</link>
       <guid isPermaLink="true">http://www.example.com/article2</guid>
       <pubDate>Fri, 01 Feb 2022 23:45:01 GMT</pubDate>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG" type="image/jpeg"/>
-      <media:content url="https://www.w3.org/TR/PNG/iso_8859-1.txt" type="text/plain"/>
+      <media:content url="https://demo.freshrss.org/robots.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Article 3</title>
+      <title>Article 3: jpg, pdf, ogg</title>
       <description>This is the third article in the RSS feed. It has three attachments, an image file, a PDF file, and an audio file.</description>
       <link>http://www.example.com/article3</link>
       <guid isPermaLink="true">http://www.example.com/article3</guid>
       <pubDate>Fri, 01 Mar 2022 15:16:17 GMT</pubDate>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg" type="image/jpeg"/>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
-      <media:content url="https://upload.wikimedia.org/wikipedia/en/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Article 4</title>
+      <title>Article 4: 2x jpg, pdf, ogg</title>
       <description>This is the fourth article in the RSS feed. It has four attachments, an image file, a PDF file, an audio file, and another image file.</description>
       <link>http://www.example.com/article4</link>
       <guid isPermaLink="true">http://www.example.com/article4</guid>
       <pubDate>Fri, 01 Apr 2022 18:19:20 GMT</pubDate>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/49/Panthera_tigris_tigris.jpg" type="image/jpeg"/>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
-      <media:content url="https://upload.wikimedia.org/wikipedia/en/4/45/BWV_847-fugue.ogg" type="audio/mpeg"/>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cat03.jpg/280px-Cat03.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>Article 5</title>
+      <title>Article 5: jpg, pdf, 2x ogg, jpg</title>
       <description>This is the fifth article in the RSS feed. It has five attachments, an image file, a PDF file, two audio files, and another image file.</description>
       <link>http://www.example.com/article5</link>
       <guid isPermaLink="true">http://www.example.com/article5</guid>
       <pubDate>Fri, 01 May 2022 21:22:23 GMT</pubDate>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/5/53/Bengal_Tiger_at_Bannerghatta_National_Park.jpg" type="image/jpeg"/>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
-      <media:content url="https://upload.wikimedia.org/wikipedia/en/4/45/BWV_847-fugue.ogg" type="audio/mpeg"/>
-      <media:content url="https://upload.wikimedia.org/wikipedia/en/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/1/19/Fugue_DMajor_BWV850.ogg" type="audio/mpeg"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cat03.jpg/280px-Cat03.jpg" type="image/jpeg"/>
     </item>
   </channel>
