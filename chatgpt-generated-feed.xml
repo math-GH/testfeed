@@ -10,7 +10,7 @@
       <description>This is the first article in the RSS feed. It has one attachment, an image file.</description>
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
-      <pubDate>Fri, 01 Jan 2022 12:34:56 GMT</pubDate>
+      <pubDate>Sat, 01 Jan 2022 12:34:56 GMT</pubDate>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/280px-Gull_portrait_ca_usa.jpg" type="image/jpeg"/>
     </item>
     <item>
