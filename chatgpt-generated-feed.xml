@@ -44,8 +44,8 @@
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>Article 5: jpg, pdf, 2x ogg, jpg</title>
-      <description>This is the fifth article in the RSS feed. It has five attachments, an image file, a PDF file, two audio files, and another image file.</description>
+      <title>Article 5: jpg, pdf, 2x ogg, jpg, video ogg, video webm</title>
+      <description>This is the fifth article in the RSS feed. It has seven attachments, an image file, a PDF file, two audio files, another image file, a OGG video file, and a WEBM video file.</description>
       <link>http://www.example.com/article5</link>
       <guid isPermaLink="true">http://www.example.com/article5</guid>
       <pubDate>Sun, 01 May 2022 21:22:23 GMT</pubDate>
@@ -54,6 +54,8 @@
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/1/19/Fugue_DMajor_BWV850.ogg" type="audio/mpeg"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cat03.jpg/280px-Cat03.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Big_Buck_Bunny.ogg" type="application/ogg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Enam_Bosakah%27s_Artistic_Process_for_Wiki_Unseen_%28Part_1%29.webm" type="video/webm"/>
     </item>
   </channel>
 </rss>
