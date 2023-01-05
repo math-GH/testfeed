@@ -9,7 +9,7 @@
 	>
 
 <channel>
-	<title>Agile Verwaltung</title>
+	<title>Atom Feed with Enclosure</title>
 	<atom:link href="https://agile-verwaltung.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agile-verwaltung.org</link>
 	<description>Von Verwaltungshandeln und Silodenken zur Gesellschaftsgestaltung und Serviceorientierung zum Nutzen der Mitbürger</description>
