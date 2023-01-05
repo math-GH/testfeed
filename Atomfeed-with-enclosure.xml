@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Agile Verwaltung</title>
+	<atom:link href="https://agile-verwaltung.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agile-verwaltung.org</link>
+	<description>Von Verwaltungshandeln und Silodenken zur Gesellschaftsgestaltung und Serviceorientierung zum Nutzen der Mitbürger</description>
+	<lastBuildDate>Mon, 02 Jan 2023 17:35:18 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='agile-verwaltung.org' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/4a2e6ae4aaf7d26bb8b162d182bee121?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Agile Verwaltung</title>
+		<link>https://agile-verwaltung.org</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://agile-verwaltung.org/osd.xml" title="Agile Verwaltung" />
+	<atom:link rel='hub' href='https://agile-verwaltung.org/?pushpress=hub'/>
+	<item>
+		<title>Atom Feed. Article with 4 images as enclosure</title>
+		<link>https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/</link>
+					<comments>https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/#respond</comments>
+		
+		<dc:creator><![CDATA[Thomas Michl]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 06:30:00 +0000</pubDate>
+				<category><![CDATA[Agiles Projektmanagement]]></category>
+		<category><![CDATA[Boards (Teamboard,Scrumboard,Kanbanboard)]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Methoden]]></category>
+		<category><![CDATA[Methodenkiste]]></category>
+		<category><![CDATA[Arbeitsfluss]]></category>
+		<category><![CDATA[Blockaden]]></category>
+		<category><![CDATA[Blocker]]></category>
+		<category><![CDATA[Flow]]></category>
+		<category><![CDATA[Kanbanboard]]></category>
+		<category><![CDATA[Methodenkistse]]></category>
+		<category><![CDATA[Reflexion]]></category>
+		<category><![CDATA[Störungen]]></category>
+		<category><![CDATA[Verbesserung]]></category>
+		<category><![CDATA[Verbesserungen]]></category>
+		<category><![CDATA[Visualisierung]]></category>
+		<category><![CDATA[Workflow]]></category>
+		<guid isPermaLink="false">http://agile-verwaltung.org/?p=16138</guid>
+
+					<description><![CDATA[Was wir anstreben, ist ein kontinuierlicher Fluss der „Arbeitspakete“ durch unser Arbeitssystem. Damit dieser gewährleistet ist, bemühen wir uns als agiles Team möglichst alle Abhängigkeiten zu vermeiden. Das gelingt mal mehr und mal weniger. Unser Ziel ist es, dass es möglichst keine Abhängigkeiten nach außen gibt. Da wir uns mit agilen Teams oft in einem &#8230; <a href="https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/" class="more-link">Weiterlesen<span class="screen-reader-text"> "Aus der agilen Methodenkiste &#124; Blocker im Arbeitsfluss sichtbar&#160;machen"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Was wir anstreben, ist ein kontinuierlicher Fluss der „Arbeitspakete“ durch unser Arbeitssystem. Damit dieser gewährleistet ist, bemühen wir uns als agiles Team möglichst alle Abhängigkeiten zu vermeiden. Das gelingt mal mehr und mal weniger. <br><br>Unser Ziel ist es, dass es möglichst keine Abhängigkeiten nach außen gibt. Da wir uns mit agilen Teams oft in einem komplexen Umfeld bewegen, wissen wir nicht immer zu Beginn, ob es Abhängigkeiten zu Dritten oder andere extern verursachten Blockaden gibt. Erst durch das erkundende Vorgehen erkennen wir, dass es Zuarbeit von dritter Seite benötigt oder Entscheidungen an anderer Stelle erforderlich sind, bevor wir weiterarbeiten können. In diesen Fällen wird der Arbeitsfluss blockiert. Um dies besser erkennen zu können, hilft die Visualisierung der Blockade auf dem Scrum- oder Kanbanboard weiter.</p>
+
+
+
+<span id="more-16138"></span>
+
+
+
+<h2 class="wp-block-heading">Parkplatz für blockierte „Tickets“</h2>
+
+
+
+<p><em>Kleiner Hinweis: Tickets wandern auf eine Kanbanboard nicht rückwärts, weil sonst die Blockaden, die man ja gerade identifzieren möchte, nicht mehr visualisiert werden</em>. <em>Der Arbeitsfluss steht im Fokus.</em></p>
+
+
+
+<p>Eine sehr einfache Lösung ist das Verschieben blockierter „Tickets“ auf eine „Parkplatz“ zum Beispiel als Spalte auf den Scrum- oder Kanbanboard, wie in Abbildung 1 dargestellt. Die Spalte wird meist mit „Wartet auf“ oder „Blockiert durch“ überschrieben, um anzuzeigen, dass nicht das Team die Ursache der Blockade ist, sondern die Ursache außerhalb der direkten Einflusssphäre des Teams liegt und dieses darauf „wartet“, dass eine Rückmeldung erfolgt, ohne die das Team nicht weiterarbeiten kann.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="16142" data-permalink="https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/grafik-4-2/" data-orig-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png" data-orig-size="605,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="grafik-4" data-image-description="" data-image-caption="" data-medium-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png?w=300" data-large-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png?w=605" src="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png?w=605" alt="" class="wp-image-16142" srcset="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png 605w, https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png?w=150 150w, https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png?w=300 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption class="wp-element-caption">Abbildung 1: Parkplatz für blockierte Tickets</figcaption></figure>
+
+
+
+<p>Vorteil ist hier, dass die Tickets nicht in das WiP hinzugerechnet werden. Das Team zieht sich dann ein Ticket nach und kann in der Zwischenzeit andere Aufgaben erledigen und zum Abschluss bringen.</p>
+
+
+
+<p>Allerdings hat dies auch negative Folgen. Das Team zieht sich neue Tickets nach, beginnt also neue Aufgaben, bevor die blockierten Aufgaben abgeschlossen sind. Wird zwischenzeitlich die Blockade gelöst, sind zu viele parallele Aufgaben im Arbeitsprozess, was dann wiederum zu Kontextwechseln führt. Solche, die wir mit Blick auf den Arbeitsfluss vermeiden wollen. Ab einem bestimmten Punkt kann dies dazu führen, dass unser Arbeitssystem „verstopft“. Wir haben zu viele parallele Arbeit bewältigen und der Arbeitsfluss stockt.</p>
+
+
+
+<p>Ein weiterer Nachteil, der sich in der Praxis beobachten lässt, dass viele Team eine Neigung entwickeln, Tickets in den Parkplatz zu schieben und sie dann ausblenden. D. h. sie bemühen sich weniger darum, die Blockaden aktiv aufzulösen. Aus den Augen, aus dem Sinn könnte man sagen. Schließlich möchte man Ergebnisse liefern. Ein allzu verständlicher und zwischenmenschlicher Effekt, den sicherlich viel nachvollziehen können. Wer will sich schon mit anderen herumärgern, wenn man aktiv etwas vorwärtstreiben kann.</p>
+
+
+
+<p>Diese Variante setze ich daher selten auf Teamebene ein, sondern nutze sie in erster Linie im Portfolio-Management.</p>
+
+
+
+<h2 class="wp-block-heading">Markierung blockierte Tickets</h2>
+
+
+
+<p>Eine weitere Variante ist das Hervorheben eines blockierten „Tickets“ mit einem visuellen Signal. Dies kann ein Avatar, ein Symbol oder eine andere einfache Kennzeichnung sein. Bei dieser Variante wird das blockierte Ticket dem WiP-Limit zugeordnet. Neue Tickets können nicht nachgezogen werden. In Abbildung 2 haben wir ein Beispiel dargestellt.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="16141" data-permalink="https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/grafik-3-3/" data-orig-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png" data-orig-size="605,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="grafik-3" data-image-description="" data-image-caption="" data-medium-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png?w=300" data-large-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png?w=605" src="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png?w=605" alt="" class="wp-image-16141" srcset="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png 605w, https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png?w=150 150w, https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png?w=300 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption class="wp-element-caption">Abbildung 2: Blockierte Tickets markiert</figcaption></figure>
+
+
+
+<p>Vorteil dieser Variante ist, dass der unmittelbare Zwang, aktiv zu werden, erhalten bleibt und die Handlungsnotwendigkeit unterstrichen wird. Der Arbeitsfluss ist aktiv „beeinträchtigt“. Wenn es sich um Blockaden handelt, die vom Team selbst nicht aktiv aufgelöst werden können, liegt es in der Verantwortung des Managements aktiv zu unterstützen, da das Team sonst nicht wie geplant seine Zusage zum Ende der Iteration einhalten kann, ohne darauf Einfluss zu nehmen.</p>
+
+
+
+<h2 class="wp-block-heading">Tipp: „Alter des Tickets“ visualisieren</h2>
+
+
+
+<p>Eine gute Möglichkeit, die Dringlichkeit zu untermauern und sichtbar zu machen, ist das „Altern“ eines Tickets. Nicht alle externen Blocker sind sofort und gleich zeitkritisch. Hier hilft die Dauer der Blockade zu visualisieren. Idealerweise, in dem man das Ticket farblich altern lässt. Je länger das Ticket blockiert ist, desto intensiver zum Beispiel die Farbe des Tickets und damit auch die zeitliche Dringlichkeit, es aufzulösen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="16143" data-permalink="https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/grafik-5-2/" data-orig-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png" data-orig-size="605,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="grafik-5" data-image-description="" data-image-caption="" data-medium-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png?w=300" data-large-file="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png?w=605" src="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png?w=605" alt="" class="wp-image-16143" srcset="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png 605w, https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png?w=150 150w, https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png?w=300 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption class="wp-element-caption">Abbildung 3: Beispiel für alternde Tickets</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Resümee</h2>
+
+
+
+<p>Mithilfe der visuellen Darstellung werden die Blockaden sichtbar, den nur was sichtbar ist, können wir bearbeiten. Blockaden sind klassische Hindernisse. Es lohnt daher, diese auch regelmäßig in die Teamreflexion zum Beispiel einer Sprint-Retro zu integrieren und die Ursachen näher zu untersuchen, um Gegenmaßnahmen für die Zukunft ableiten zu können. Die Blockade ist meist nur der sichtbare Teil, ein vertiefender Blick auf die Ursachen zum Beispiel mit dem Ansatz 5 Why hilft, näher an die Wurzel zu kommen und dann für die Zukunft durch entsprechende Maßnahmen schon im Vorfeld Blockaden zu vermeiden.</p>
+
+
+
+<p>Der Umgang mit den Blockaden selbst sollte Teil der regelmäßigen Reflexion im Team und dem Umfeld, insbesondere mit den „Auftraggebern“ und der „Führung“ sein. Beim Auflösen der Blockaden ist meist ihre Mitarbeit gefordert und durch die regelmäßige gemeinsame Sensibilisierung wird das Verständnis auf allen Seiten gefördert.</p>
+
+
+
+<p>Das Thema wiederkehrende Aufgaben und Wiedervorlage habe ich mir für einen eigenen Artikel aufgehoben, in dem ich das Kamishibai Board vorstellen möchte. Ein Ansatz, der anders als Kanban mit seinem Fokus auf Workflow &#8211; dem Strukturprinzip Status folgt und eine Ergänzung zum Kanbanboard bilden kann.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agile-verwaltung.org/2023/01/05/aus-der-agilen-methodenkiste-blocker-im-arbeitsfluss-sichtbar-machen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/347dfeae267d8d9b7c8bf959b3b97baa?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">tomsgedankenblog</media:title>
+		</media:content>
+
+		<media:content url="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-4.png?w=605" medium="image" />
+
+		<media:content url="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-3.png?w=605" medium="image" />
+
+		<media:content url="https://agileverwaltungorg.files.wordpress.com/2022/10/grafik-5.png?w=605" medium="image" />
+	</item>
+	</channel>
+</rss>
