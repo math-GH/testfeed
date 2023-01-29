@@ -7,7 +7,7 @@
     <atom:link href="http://www.example.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Article 1: jpg and a wide table</title>
-      <description><![CDATA[This is the first article in the RSS feed. It has one attachment, an image file. And a wide table not in a div box:<table><tr><th>1111111111111111111</th><th>222222222222222222222222</th><th>3333333333333333333333333333333</th><th>44444444444444444444444444444444</th><th>5555555555555555555555555555555555555555</th><th>66666666666666666666666666666666666666666</th><th>7777777777777777777777777777777777777</th><th>88888888888888888888888888888888888888888888888888888</th><th>9999999999999999999999999999</th><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></table>]]></description>
+      <description><![CDATA[This is the first article in the RSS feed. It has one attachment, an image file. And a wide table (withour a div around):<table><tr><th>1111111111111111111</th><th>222222222222222222222222</th><th>3333333333333333333333333333333</th><th>44444444444444444444444444444444</th><th>5555555555555555555555555555555555555555</th><th>66666666666666666666666666666666666666666</th><th>7777777777777777777777777777777777777</th><th>88888888888888888888888888888888888888888888888888888</th><th>9999999999999999999999999999</th><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></table>]]></description>
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
       <pubDate>Sat, 01 Jan 2022 12:34:56 GMT</pubDate>
