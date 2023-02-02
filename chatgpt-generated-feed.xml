@@ -6,13 +6,13 @@
     <link>http://www.example.com</link>
     <atom:link href="http://www.example.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Article 1: jpg and a wide table</title>
-      <description><![CDATA[This is the first article in the RSS feed. It has one attachment, an image file. And a wide table (withour a div around):<table><tr><th>1111111111111111111</th><th>222222222222222222222222</th><th>3333333333333333333333333333333</th><th>44444444444444444444444444444444</th><th>5555555555555555555555555555555555555555</th><th>66666666666666666666666666666666666666666</th><th>7777777777777777777777777777777777777</th><th>88888888888888888888888888888888888888888888888888888</th><th>9999999999999999999999999999</th><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></table>]]></description>
+      <title>Article 1: jpg (thumbnail + image) and a wide table</title>
+      <description><![CDATA[This is the first article in the RSS feed. It has one attachment, an image file plus a thumbnail image, that does not show the same bird. And a wide table (withour a div around):<table><tr><th>1111111111111111111</th><th>222222222222222222222222</th><th>3333333333333333333333333333333</th><th>44444444444444444444444444444444</th><th>5555555555555555555555555555555555555555</th><th>66666666666666666666666666666666666666666</th><th>7777777777777777777777777777777777777</th><th>88888888888888888888888888888888888888888888888888888</th><th>9999999999999999999999999999</th><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></table>]]></description>
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
       <pubDate>Sat, 01 Jan 2022 12:34:56 GMT</pubDate>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/280px-Gull_portrait_ca_usa.jpg" width="75" height="50" time="12:05:01.123" />
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/640px-Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg" width="75" height="50" time="12:05:01.123" />
     </item>
     <item>
       <title>Article 2: jpg, txt and a wide table</title>
