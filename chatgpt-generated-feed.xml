@@ -11,7 +11,8 @@
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
       <pubDate>Sat, 01 Jan 2022 12:34:56 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/280px-Gull_portrait_ca_usa.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/280px-Gull_portrait_ca_usa.jpg" width="75" height="50" time="12:05:01.123" />
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>Article 2: jpg, txt and a wide table</title>
