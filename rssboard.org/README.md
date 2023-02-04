@@ -5,6 +5,11 @@ Feeds from the example section of https://www.rssboard.org/media-rss#examples
 ## files
 see the descriptions of the exmples on the rssboard.org website
 
+## validation
+example1.xml till example4.xml validates (with issues) with https://validator.w3.org/feed/
+
+But: example5.xml and example6.xml does NOT validate with https://validator.w3.org/feed/
+
 ## Licence
 Copyright 2009 RSS Advisory Board. This Specification is available under the Open Web Foundation Agreement Version 0.9.
 
