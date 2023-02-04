@@ -11,7 +11,9 @@
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
       <pubDate>Sat, 01 Jan 2022 12:34:56 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" type="image/jpeg">
+         <media:credit role="photographer">photographer's name of the gull</media:credit>
+      </media:content>
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/640px-Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg" width="75" height="50" time="12:05:01.123" />
     </item>
     <item>
@@ -20,7 +22,9 @@
       <link>http://www.example.com/article2</link>
       <guid isPermaLink="true">http://www.example.com/article2</guid>
       <pubDate>Tue, 01 Feb 2022 23:45:01 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG" type="image/jpeg">
+        <media:credit role="photographer">photographer's name of the Orang Utan</media:credit>
+      </media:content>
       <media:content url="https://demo.freshrss.org/robots.txt" type="text/plain"/>
     </item>
     <item>
@@ -29,7 +33,9 @@
       <link>http://www.example.com/article3</link>
       <guid isPermaLink="true">http://www.example.com/article3</guid>
       <pubDate>Tue, 01 Mar 2022 15:16:17 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg" type="image/jpeg">
+        <media:credit role="photographer">photographer's name of the elephant</media:credit>
+      </media:content>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
     </item>
@@ -39,10 +45,14 @@
       <link>http://www.example.com/article4</link>
       <guid isPermaLink="true">http://www.example.com/article4</guid>
       <pubDate>Fri, 01 Apr 2022 18:19:20 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/49/Panthera_tigris_tigris.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/49/Panthera_tigris_tigris.jpg" type="image/jpeg">
+        <media:credit role="photographer">photographer's name of the Panthera</media:credit>
+      </media:content>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" type="image/jpeg">
+        <media:credit role="photographer">photographer's name of the cat</media:credit>
+      </media:content>
     </item>
     <item>
       <title>Article 5: jpg, pdf, 2x ogg, jpg, video ogg, video webm</title>
@@ -50,7 +60,9 @@
       <link>http://www.example.com/article5</link>
       <guid isPermaLink="true">http://www.example.com/article5</guid>
       <pubDate>Sun, 01 May 2022 21:22:23 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/5/53/Bengal_Tiger_at_Bannerghatta_National_Park.jpg" type="image/jpeg"/>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/5/53/Bengal_Tiger_at_Bannerghatta_National_Park.jpg" type="image/jpeg">
+        <media:credit role="photographer">photographer's name of the tiger</media:credit>
+      </media:content>
       <media:content url="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/1/19/Fugue_DMajor_BWV850.ogg" type="audio/mpeg"/>
