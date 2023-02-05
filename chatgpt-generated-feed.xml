@@ -11,9 +11,8 @@
       <link>http://www.example.com/article1</link>
       <guid isPermaLink="true">http://www.example.com/article1</guid>
       <pubDate>Sat, 01 Jan 2022 12:34:56 GMT</pubDate>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" type="image/jpeg">
-         <media:credit role="photographer">photographer's name of the gull</media:credit>
-      </media:content>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg" type="image/jpeg" />
+      <media:credit role="photographer">photographer's name of the gull</media:credit>
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/640px-Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg" width="75" height="50" time="12:05:01.123" />
     </item>
     <item>
