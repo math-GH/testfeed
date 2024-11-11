@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example RSS Feed</title>
-    <description>This is an example RSS feed with 5 articles, each with 1-5 attachments. And 10 Categories.</description>
+    <description>This is an example RSS feed with 5 articles, each with 1-5 attachments. And Categories.</description>
     <link>http://www.example.com</link>
     <atom:link href="http://www.example.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Article 1: jpg (thumbnail + image) and a wide table</title>
+      <title>Article 1: jpg (thumbnail + image) and a wide table and 10 categories</title>
       <category>Category 1</category>
       <category>Category 2</category>
       <category>Category 3</category>
@@ -26,7 +26,10 @@
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/640px-Black-headed_Gull_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg" width="75" height="50" time="12:05:01.123" />
     </item>
     <item>
-      <title>Article 2: jpg, txt and a wide table</title>
+      <title>Article 2: jpg, txt and a wide table and 3 categories</title>
+      <category>Category 1</category>
+      <category>Category 2</category>
+      <category>Category 3</category>
       <description><![CDATA[This is the second article in the RSS feed. It has two attachments, an image file and a text file. And a wide table in a div box: <div><table><tr><th>1111111111111111111</th><th>222222222222222222222222</th><th>3333333333333333333333333333333</th><th>44444444444444444444444444444444</th><th>5555555555555555555555555555555555555555</th><th>66666666666666666666666666666666666666666</th><th>7777777777777777777777777777777777777</th><th>88888888888888888888888888888888888888888888888888888</th><th>9999999999999999999999999999</th><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></table></div>]]></description>
       <link>http://www.example.com/article2</link>
       <guid isPermaLink="true">http://www.example.com/article2</guid>
@@ -37,7 +40,7 @@
       <media:content url="https://demo.freshrss.org/robots.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Article 3: jpg, pdf, ogg</title>
+      <title>Article 3: jpg, pdf, ogg and 0 categories</title>
       <description>This is the third article in the RSS feed. It has three attachments, an image file, a PDF file, and an audio file.</description>
       <link>http://www.example.com/article3</link>
       <guid isPermaLink="true">http://www.example.com/article3</guid>
@@ -49,7 +52,12 @@
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4e/BWV_543-fugue.ogg" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Article 4: 2x jpg, pdf, ogg</title>
+      <title>Article 4: 2x jpg, pdf, ogg and 5 categories</title>
+      <category>Category 1</category>
+      <category>Category 2</category>
+      <category>Category 3</category>
+      <category>Category 4</category>
+      <category>Category 5</category>
       <description>This is the fourth article in the RSS feed. It has four attachments, an image file, a PDF file, an audio file, and another image file.</description>
       <link>http://www.example.com/article4</link>
       <guid isPermaLink="true">http://www.example.com/article4</guid>
@@ -64,7 +72,13 @@
       </media:content>
     </item>
     <item>
-      <title>Article 5: jpg, pdf, 2x ogg, jpg, video ogg, video webm</title>
+      <title>Article 5: jpg, pdf, 2x ogg, jpg, video ogg, video webm and 6 categories</title>
+      <category>Category 1</category>
+      <category>Category 2</category>
+      <category>Category 3</category>
+      <category>Category 4</category>
+      <category>Category 5</category>
+      <category>Category 6</category>
       <description>This is the fifth article in the RSS feed. It has seven attachments, an image file, a PDF file, two audio files, another image file, a OGG video file, and a WEBM video file.</description>
       <link>http://www.example.com/article5</link>
       <guid isPermaLink="true">http://www.example.com/article5</guid>
